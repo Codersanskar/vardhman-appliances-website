@@ -1,0 +1,7 @@
+[15-Feb-2024 09:53:16 UTC] PHP Notice:  Undefined index: type in /home/vardhmanapp/public_html/mail/mail.php on line 23
+[15-Feb-2024 09:53:16 UTC] PHP Notice:  Undefined index: company in /home/vardhmanapp/public_html/mail/mail.php on line 27
+[15-Feb-2024 09:53:16 UTC] PHP Notice:  Undefined index: message in /home/vardhmanapp/public_html/mail/mail.php on line 28
+[15-Feb-2024 09:54:07 UTC] PHP Notice:  Undefined index: type in /home/vardhmanapp/public_html/mail/mail.php on line 23
+[15-Feb-2024 09:54:07 UTC] PHP Notice:  Undefined index: company in /home/vardhmanapp/public_html/mail/mail.php on line 27
+[15-Feb-2024 09:54:07 UTC] PHP Notice:  Undefined index: message in /home/vardhmanapp/public_html/mail/mail.php on line 28
+[15-Feb-2024 09:59:17 UTC] PHP Notice:  Undefined index: type in /home/vardhmanapp/public_html/mail/mail.php on line 22

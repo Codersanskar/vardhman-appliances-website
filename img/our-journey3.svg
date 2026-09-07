@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #010101;
+        stroke-linecap: round;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 8px;
+      }
+
+      .cls-3 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="m255,116.6l20.5,67"/>
+  <path class="cls-2" d="m275.6,183.6c1.3,4.4.5,9-2.3,12.8-2.7,3.7-6.9,5.8-11.4,5.8h-.2"/>
+  <path class="cls-2" d="m234.5,210.9c14.2,0,25.8,11.6,25.8,25.8"/>
+  <path class="cls-1" d="m255.2,21.8h-80"/>
+  <path class="cls-2" d="m175.1,50.5h81.3"/>
+  <path class="cls-2" d="m175.1,21.8c-9.5,0-13.8,7.4-13.8,14.3s4.3,14.3,13.8,14.3"/>
+  <path class="cls-2" d="m256.4,50.5c5.2,0,10,2.9,12.6,7.6,2.5,4.7,2.3,10.3-.6,14.7"/>
+  <path class="cls-2" d="m268.3,72.8l-11.7,16.9"/>
+  <path class="cls-2" d="m258.3,103.1l-6,8.2"/>
+  <path class="cls-2" d="m233.9,98.4l5.4-8.1"/>
+  <path class="cls-2" d="m239.3,90.4c2.3-3.4,5.8-5.3,9.8-5,4.3.3,8.3,3,10.2,6.8,1.7,3.5,1.4,7.5-.9,10.9"/>
+  <path class="cls-2" d="m228,98.5c12.1-1.1,23.5,6.5,27,18.1"/>
+  <path class="cls-2" d="m42.5,211c40.9-64.2,109.7-105.5,185.5-112.5"/>
+  <path class="cls-2" d="m261.8,202.1h-.4c-10.3,0-16.6,1-22.5,9.4"/>
+  <path class="cls-2" d="m44.1,210.9h189.1"/>
+  <path class="cls-2" d="m260.3,236.7H18.3c0-14.2,11.6-25.8,25.8-25.8"/>
+  <polygon class="cls-3" points="120.2 178.4 221.6 116.6 229.5 178.4 120.2 178.4"/>
+</svg>
