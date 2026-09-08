@@ -47,10 +47,10 @@
       <div class="col-lg-3">
         <div class="widget m-mb0 m-mt0" data-aos="fade-up">
           <ul class="footer-contact">
-            <li><a href="#"><i class="ri-mail-fill"></i> info@vardhmanappliances.com</a></li>
+            <li><a href="mailto:info@vardhmanappliances.com"><i class="ri-mail-fill"></i> info@vardhmanappliances.com</a></li>
             <!-- <li><a href="#"><i class="ri-mail-fill"></i> enquiry@vardhmanappliances.com</a></li> -->
             <!--<li><a href="#"><i class="ri-smartphone-fill"></i> +91-9150805368</a></li>-->
-            <li><a href="#"><i class="ri-phone-fill"></i> 011-43970000</a></li>
+            <li><a href="tel:+911143970000"><i class="ri-phone-fill"></i> 011-43970000</a></li>
             <li><i class="ri-building-fill"></i> CIN U27509DL2023PLC418176</li>
           </ul>
         </div>

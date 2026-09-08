@@ -144,7 +144,7 @@
                                 <h2 class="h1 mb-4 title" data-aos="fade-up"><span data-splitting class="word-set">Delivering Value to our Stakeholders</span></h2>
                                 <p class="mb-4" data-aos="fade-up">Our company's financial performance, strategic initiatives, and commitment to transparent communication with our shareholders and the investment community. It reflects our dedication to sound business practices and delivering value to our stakeholders.</p>
                                 <a href="investor.php" class="circle-link" data-aos="fade-up"><span class="icon"><i class="ri-arrow-right-line"></i></span> <span class="text">Get in touch</span></a>
-                                <!-- <a href="#" class="circle-link cl-alt" data-aos="fade-up"><span class="icon"><i class="ri-arrow-right-line"></i></span> <span class="text">Annual Reports</span></a> -->
+                                <a href="investor-financial-performance.php" class="circle-link cl-alt" data-aos="fade-up"><span class="icon"><i class="ri-arrow-right-line"></i></span> <span class="text">Annual Reports</span></a>
                             </div>
                         </div>
                     </div>

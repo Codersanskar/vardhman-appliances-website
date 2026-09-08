@@ -65,8 +65,8 @@
         </div>
 
         <div class="email-phone mb30">
-          <p data-aos="fade-up"><i class="ri-mail-fill"></i> Email: <a href="mailto:info@fullcirclerisk.com">customercare@lazerindia.com</a></p>
-          <p data-aos="fade-up"><i class="ri-phone-fill"></i> Phone: <a href="tel:(+91) 98410 76455">011-43970000</a></p>
+          <p data-aos="fade-up"><i class="ri-mail-fill"></i> Email: <a href="mailto:customercare@lazerindia.com">customercare@lazerindia.com</a></p>
+          <p data-aos="fade-up"><i class="ri-phone-fill"></i> Phone: <a href="tel:+911143970000">011-43970000</a></p>
         </div>
 
         <!-- <div class="social-links">
