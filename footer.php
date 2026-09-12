@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col-lg-3">
         <div class="widget m-mb0 m-mt0" data-aos="fade-up">
-            <img src="img/vg-logo.png" alt="" class="img-fluid footer-logo">
+            <img src="img/val-logo-full.png" alt="Vardhman Appliances Limited" class="img-fluid footer-logo">
             <p>Ground Floor, 43, <br>
             Rajasthani Udyog Nagar,<br>
             Jahangirpuri, New Delhi - 110033</p>
@@ -64,11 +64,11 @@
           <li><a href="#">Terms & Conditions</a></li>
           <li><a href="#">Privacy Policy</a></li>
         </ul> -->
-        <div class="copyright-text">&copy; Copyright 2024 | Vardhman Group</div>
+        <div class="copyright-text">&copy; Copyright 2024 | Vardhman Appliances Limited</div>
       </div>
     </div>
   </div>
-  <img src="img/vg-icon-dark.svg" alt="" class="img-fluid footer-icon">
+  <img src="img/val-logo-mark-mono.png" alt="" class="img-fluid footer-icon">
 </footer>  
 
 </div><!-- smooth-scroll -->

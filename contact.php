@@ -60,7 +60,7 @@
 
         <div class="address">
           <h4 data-aos="fade-up fw-bolder">Corporate Office</h4>
-          <p data-aos="fade-up fw-bolder"><strong>Vardhman Group</strong><br>
+          <p data-aos="fade-up fw-bolder"><strong>Vardhman Appliances Limited</strong><br>
           Ground Floor, 43, <br> Block A, Rajasthani Udyog Nagar,<br> Jahangirpuri, New Delhi - 110033</p>
         </div>
 

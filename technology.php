@@ -111,7 +111,7 @@
                 <div class="col col-lg-9">
                     <div class="heading-bar text-center">
                         <h2 class="fw-bolder pb-4 fs-3 text-primary" data-aos="fade-up"><span data-splitting class="word-set">RESEARCH AND DEVELOPMENT</span></h2>
-                        <p class="text-black fs-5 fw-light pb-1" data-aos="fade-up">At Vardhman Group, our commitment to innovation and quality is fulfilled by our dedicated Research and Development (R&D) team. It enables us to consistently produce superior quality electrical appliances that are designed to meet customer expectations.</p>
+                        <p class="text-black fs-5 fw-light pb-1" data-aos="fade-up">At Vardhman Appliances Limited, our commitment to innovation and quality is fulfilled by our dedicated Research and Development (R&D) team. It enables us to consistently produce superior quality electrical appliances that are designed to meet customer expectations.</p>
                     </div>
                 </div>
             </div>

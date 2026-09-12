@@ -221,7 +221,7 @@
                 <div class="col col-lg-9">
                     <div class="heading-bar text-center">
                         <h2 class="fw-bolder pb-4 fs-3 text-primary" data-aos="fade-up"><span data-splitting class="word-set">OUR LEADERS</span></h2>
-                        <p class="text-black fs-5 fw-light pb-1" data-aos="fade-up">The Board of Directors of Vardhman Group comprise a team of experienced and visionary leaders, each bringing unique skills and expertise to the table.</p>
+                        <p class="text-black fs-5 fw-light pb-1" data-aos="fade-up">The Board of Directors of Vardhman Appliances Limited comprise a team of experienced and visionary leaders, each bringing unique skills and expertise to the table.</p>
                     </div>
                 </div>
             </div>
@@ -405,7 +405,7 @@
                 <div class="col col-lg-9">
                     <div class="heading-bar text-center">
                         <h2 class="fw-bolder pb-4 fs-3 text-primary" data-aos="fade-up"><span data-splitting class="word-set">MANAGEMENT TEAM</span></h2>
-                        <p class="text-black fs-5 fw-light pb-1" data-aos="fade-up">Our key managerial personnel bring together the functional expertise that runs Vardhman Group day to day. <em>(Placeholder — to be updated with actual names, designations and photographs.)</em></p>
+                        <p class="text-black fs-5 fw-light pb-1" data-aos="fade-up">Our key managerial personnel bring together the functional expertise that runs Vardhman Appliances Limited day to day. <em>(Placeholder — to be updated with actual names, designations and photographs.)</em></p>
                     </div>
                 </div>
             </div>

@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Vardhman</title>
+    <title>Vardhman Appliances Limited</title>
     <link rel="icon" type="image/png" href="img/favicon.png">
     <link href="css/plugins.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
@@ -42,7 +42,7 @@
         </div>
         <div class="logo_area mx-auto">
             <a href="index.php" class="brand_logo">
-                <img src="img/vg-logo.png" alt="" class="img-fluid logo">
+                <img src="img/val-logo-nav.png" alt="Vardhman Appliances Limited" class="img-fluid logo">
             </a>
         </div>
         <div class="social_icons_area me-4">

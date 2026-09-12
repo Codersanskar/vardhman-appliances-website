@@ -38,7 +38,7 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#irFaq3">
-                                Is Vardhman Group currently listed on a stock exchange?
+                                Is Vardhman Appliances Limited currently listed on a stock exchange?
                             </button>
                         </h2>
                         <div id="irFaq3" class="accordion-collapse collapse" data-bs-parent="#irFaqAccordion">

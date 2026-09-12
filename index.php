@@ -229,7 +229,7 @@
             <!--        <div class="card card-news" data-aos="fade-up" data-aos-delay="600">-->
             <!--            <a href="#" class="image"><img src="img/news3.webp" class="card-img-top" alt=""></a>-->
             <!--            <div class="card-body">-->
-            <!--                <h5 class="card-title"><a href="#">Success Multiplies: Vardhman Group receives the pretigious Global Company of the year</a></h5>-->
+            <!--                <h5 class="card-title"><a href="#">Success Multiplies: Vardhman Appliances Limited receives the pretigious Global Company of the year</a></h5>-->
             <!--                <div class="date-area">-->
             <!--                    <div class="date">-->
             <!--                        <span class="category">Awards And Recognitions</span>-->

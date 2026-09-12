@@ -75,7 +75,7 @@
                 <a href="about.php#leadership" class="ir-tile">
                     <div class="ir-icon"><i class="ri-user-star-line"></i></div>
                     <h5>Leadership &amp; Promoters</h5>
-                    <p>Board of Directors, promoters and the management team steering Vardhman Group.</p>
+                    <p>Board of Directors, promoters and the management team steering Vardhman Appliances Limited.</p>
                 </a>
             </div>
 

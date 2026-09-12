@@ -7,7 +7,7 @@
             <div class="col col-lg-9">
                 <div class="heading-bar text-center">
                     <h2 class="fw-bolder pb-2 fs-3 text-primary" data-aos="fade-up"><span data-splitting class="word-set">Corporate Governance</span></h2>
-                    <p class="text-black fs-5 fw-light pb-1" data-aos="fade-up">Board composition, committees, and the policies that guide how Vardhman Group is governed.</p>
+                    <p class="text-black fs-5 fw-light pb-1" data-aos="fade-up">Board composition, committees, and the policies that guide how Vardhman Appliances Limited is governed.</p>
                 </div>
             </div>
         </div>
