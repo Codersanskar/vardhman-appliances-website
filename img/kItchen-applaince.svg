@@ -1,9 +1,9 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 299" width="300" height="299">
 	<title>KItchen applaince-svg</title>
 	<style>
-		.s0 { fill: #010101 } 
-		.s1 { fill: #c18f3e } 
-		.s2 { fill: #c08f3c } 
+		.s0 { fill: #1c1440 } 
+		.s1 { fill: #faf9f6 } 
+		.s2 { fill: #faf9f6 } 
 	</style>
 	<path id="Layer" class="s0" d="m149.9 298.4c-82.4 0-149.1-66.7-149.1-149.3 0-82.5 66.7-149.2 149.1-149.2 82.5 0 149.1 66.7 149.1 149.2 0 82.6-66.6 149.3-149.1 149.3z"/>
 	<g id="Layer">

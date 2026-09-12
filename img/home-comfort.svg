@@ -1,8 +1,8 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 299" width="300" height="299">
 	<title>home comfort-svg</title>
 	<style>
-		.s0 { fill: #010101 } 
-		.s1 { fill: #c18f3e } 
+		.s0 { fill: #1c1440 } 
+		.s1 { fill: #faf9f6 } 
 	</style>
 	<g id="Layer">
 		<path id="Layer" class="s0" d="m150 298.2c-82.5 0-149.1-66.6-149.1-149 0-82.4 66.6-149 149.1-149 82.4 0 149.1 66.6 149.1 149 0 82.4-66.7 149-149.1 149z"/>

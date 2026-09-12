@@ -1,8 +1,8 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 301" width="300" height="301">
 	<title>Fans-svg</title>
 	<style>
-		.s0 { fill: #010101 } 
-		.s1 { fill: #c18f3e } 
+		.s0 { fill: #1c1440 } 
+		.s1 { fill: #faf9f6 } 
 	</style>
 	<g id="Layer">
 		<path id="Layer" class="s0" d="m150 300.8c-82.9 0-150-67-150-149.9 0-82.9 67.1-150 150-150 83 0 150 67.1 150 150 0 82.9-67 149.9-150 149.9z"/>
