@@ -14468,3 +14468,17 @@ body {
 .main_navigation {
   background-color: var(--brand-navy-deep) !important;
 }
+
+/* Premium display typography — serif headings, sans body/UI, per the rebrand. */
+h1, .h1, h2, .h2, h3, .h3,
+.title, .display-1, .display-2, .display-3, .display-4,
+.card-title, .integration-title {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  letter-spacing: 0;
+}
+h4, .h4, h5, .h5, h6, .h6 {
+  font-family: var(--bs-font-sans-serif);
+}
+.pre-title, .btn, .nav, .menu_items, .footer-menu {
+  font-family: var(--bs-font-sans-serif);
+}
